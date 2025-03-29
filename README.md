@@ -3,9 +3,13 @@ This project demonstrates a simple form validation system using HTML, CSS, and J
 
 # Features
 ✅ Required Field Validation – Ensures all necessary fields are filled.
+
 ✅ Email Validation – Checks if the entered email follows a valid format.
+
 ✅ Phone Number Validation – Allows only valid phone number formats.
+
 ✅ Real-Time Error Messages – Displays error messages as the user types.
+
 ✅ Basic UI Styling – Styled with CSS for a clean and responsive look.
 
 # Technologies Used
