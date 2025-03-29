@@ -14,5 +14,7 @@ This project demonstrates a simple form validation system using HTML, CSS, and J
 
 # Technologies Used
 HTML – Structure of the form.
+
 CSS – Styling for an appealing and responsive design.
+
 JavaScript – Logic for validation and error handling.
